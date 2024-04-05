@@ -16,8 +16,6 @@ export default function Dashboard() {
       <Grid item xs={9}>
         <div className='main-content'>
           <Header/>
-          
-
           {/* Intégration de la navigation améliorée */}
           {/* Exemple : <SmoothNavigation /> */}
           <DashboardContent />
